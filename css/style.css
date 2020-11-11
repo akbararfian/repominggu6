@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: black;
+}
+
+.bo {
+    border: 1px solid;
+}
+
+.nav-item {
+    margin-left: 30px;
+    font-size: 17px;
+}
+
+.logo {
+    color: black!important;
+    font-family: "Rubik", "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.warna {
+    color: black !important;
+    font-family: "Rubik", "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.text {
+    background-color: #E14CFE;
+    height: 10vh;
+}
